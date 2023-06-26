@@ -19,17 +19,14 @@ CafeHub is a mobile and web application that aims to provide users with a person
 ## Detailed Screen Video
 The link of detailed screen video of the application: https://www.youtube.com/watch?v=zfjCqv-P-rc&t=11s
 
-## App Screens
-### Select your body part! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Select your exercise!
+## Example App Screens
 ![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_2.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_4.png)
-
-### Add to favourites if you like! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View the favourite exercises!
+![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_4.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_6.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt text](https://github.com/enes-sahinn/CustomerRecognitionApp-CafeHub-MobilClient/blob/master/app_screens/app_screen_8.jpg)
 
 ## Technologies Used
